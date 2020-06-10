@@ -1,3 +1,4 @@
+"publishConfig": { "registry": "https://npm.pkg.github.com/" }
 {
   "name": "select-autocomplete-app",
   "version": "0.0.0",
